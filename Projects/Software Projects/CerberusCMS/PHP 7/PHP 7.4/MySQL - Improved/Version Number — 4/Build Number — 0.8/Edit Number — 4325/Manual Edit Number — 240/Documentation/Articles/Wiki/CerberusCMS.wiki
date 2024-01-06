@@ -766,7 +766,7 @@ and more.
 
  	$C = $A + $B;
 
- 	echo ($C);
+ 	echo ($C); OR print_r($C); OR print($C);
 
  } // [ + ] IF: 1 IS Greater Than 2, Add 1 To 2
 
