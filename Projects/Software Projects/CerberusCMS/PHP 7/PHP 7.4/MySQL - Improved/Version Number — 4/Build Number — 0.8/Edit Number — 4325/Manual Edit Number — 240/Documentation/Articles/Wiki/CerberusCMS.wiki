@@ -1,4 +1,4 @@
-﻿Cerberus Content Management System, Officially Registered Unix-Name: CerberusCMS and Cerberus-Content-Management-System in year 2000 - 2001 on FreshMeat which became SourceForge and then SlashDot Media.
+Cerberus Content Management System, Officially Registered Unix-Name: CerberusCMS and Cerberus-Content-Management-System in year 2000 - 2001 on FreshMeat which became SourceForge and then SlashDot Media.
 
 ==Origins==
 
@@ -14,7 +14,7 @@ The direct Web Application project fork is named Fenrir Content Management Syste
 The Official Cerberus Content Managemet System Software Project follows the standard adoption of Greek culture in inherited Western-American Academia where Greek cultural ideas and symbols were adopted and are used today. Greek alphabet letters and Greek cultural things were reentered into Western-American Academia especially Mathematics around the year ~1800 and onward.
 
 ===Project Official Alternate Editions===
-Each release of CerberusCMS after CerberusCMS - Version Number: 4, Build Number: 0.8, Edit Number: 4,325, Manual Edit Number: 340 comes with alternate editions named FenrirCMS, RuneCMS and RunicCMS for installation where the entire system is themed around Heathen / Germanic Pagan Gods and Goddesses where in these alternate editions there is no mention of Cerberus and instead of Cerberus it is themed with the names of Heathen / Germanic Gods and Goddesses complete with custom Heathen themed graphics and ascii art. Wodan / Odin, Freyja, Heimdallr and others.
+Each release of CerberusCMS after CerberusCMS - Version Number: 4, Build Number: 0.8, Edit Number: 4,325, Manual Edit Number: 240 - Final comes with alternate editions named FenrirCMS, RuneCMS and RunicCMS for installation where the entire system is themed around Heathen / Germanic Pagan Gods and Goddesses where in these alternate editions there is no mention of Cerberus and instead of Cerberus it is themed with the names of Heathen / Germanic Gods and Goddesses complete with custom Heathen themed graphics and ascii art. Wodan / Odin, Freyja, Heimdallr and others.
 
 ===Project Official Additional Applications===
 CerberusCMS comes with several additional applications:
@@ -110,10 +110,10 @@ All programming code is organized in Pre-Ordered Logical and Pre-Oredered Mathem
 ===Project Update Cycles===
 System Updates consist of Programming Code Updates, Programming Code Security Updates, Graphics Updates and more.
 Officially released versions come with an embedded build number where the build itself takes several weeks or months of quality code implementation and updates to complete from the project developer.
-CerberusCMS - Version Number: 4, Build Number: 0.8, Edit Number: 4,325, Manual Edit Number: 340 was manually updated by hand rewrite periodically from the years of ~ January of 2022 to January of 2024 and is now approximately ~250,000 lines of Pure Pre-Hyper-Text-Post-Processor Programming Code.
+CerberusCMS - Version Number: 4, Build Number: 0.8, Edit Number: 4,325, Manual Edit Number: 240 - Final was manually updated by hand rewrite periodically from the years of ~ January of 2022 to January of 2024 and is now approximately ~250,000 lines of Pure Pre-Hyper-Text-Post-Processor Programming Code.
 
 ===Project Compatibility and Life Cycle===
-CerberusCMS - Version Number: 4, Build Number: 0.8, Edit Number: 4,325, Manual Edit Number: 340 was hand updated by manual Programming Code Rewrite periodically from the years of ~ January of 2022 to November of 2023. This specific Version Number, Build Number and Edit Number will work for ~ 10 years on Pre-Hyper-Text-Post-Processor Version Number: 8.
+CerberusCMS - Version Number: 4, Build Number: 0.8, Edit Number: 4,325, Manual Edit Number: 240 - Final was hand updated by manual Programming Code Rewrite periodically from the years of ~ January of 2022 to November of 2023. This specific Version Number, Build Number and Edit Number will work for ~ 10 years on Pre-Hyper-Text-Post-Processor Version Number: 8.
 Major programming code updates implemented heavy use of encryption and data sanitization. It was remade for heavy use of riced and crafted Structured-Query-Language queries and concurrent connections numbering in the 100s for shared hosting and 10s of thousands to 100s of thousands with the recommended Dedicated Server Rack Setup with Dedicated and Seperated Servers For Apache, MySQL/MariaDB/Microsoft Database, P.H.P./Zend, Operating System, Cloud/Data Server and other kinds of servers.
 With a Server Setup on a rack with 3 or more different dedicated, separated and security hardened S.Q.L. Server, P.H.P. / Apache Server and Data Storage Server the system can support up to ~ 5,000 unique active concurrent user-connections without any lag or latency in response time.
 
@@ -348,7 +348,7 @@ Activity Logging
 
 ====Secret Application Modules====
 * '''Lightning_Calculate'''
-With Version Number: 4, Build Number: 0.8 CerberusCMS comes with a secret Application Module named 'Lightning Calculate !' this Application Module teaches the user how to mentally calculate at lightning speed through repetitive patterns. This Application Module also teaches the user how to master
+With Version Number: 4, Build Number: 0.8, Edit Number: 4,325, Manual Edit Number: 240 - Final CerberusCMS comes with a secret Application Module named 'Lightning Calculate !' this Application Module teaches the user how to mentally calculate at lightning speed through repetitive patterns. This Application Module also teaches the user how to master
 the Methods of Loci as well as provides a 6 month intensive training course of expert nutrition and physical and mental training to obtain a Mastery of Mathematics.
 
 The author has mental calculating capabilities as a high-level Lightning Human Calculator capable of 4 Digit * 4 Digit mental multiplication as well as several other kinds of lightning mental calculating capabilities.
@@ -741,10 +741,10 @@ Through this Application Module one can play Nintendo, Super Nintendo and other 
 
 ===Project Programming Code Size===
 Programming Code
-CerberusCMS as of Version Number: 4, Build Number: 0.8, Edit Number: 4,325, Manual Edit Number: 340 has approximately ~250,000 lines of Pure Pre-Hyper-Text-Post-Processor programming code.
+CerberusCMS as of Version Number: 4, Build Number: 0.8, Edit Number: 4,325, Manual Edit Number: 240 - Final has approximately ~250,000 lines of Pure Pre-Hyper-Text-Post-Processor programming code.
 
 ===Quality Programming Code===
-CerberusCMS as of Version Number: 4, Build Number: 0.8, Edit Number: 4,325, Manual Edit Number: 340 features ~250,000 lines of quality and thoroughly documented Pre-Hyper-Text-Post-Processor programming code.
+CerberusCMS as of Version Number: 4, Build Number: 0.8, Edit Number: 4,325, Manual Edit Number: 240 - Final features ~250,000 lines of quality and thoroughly documented Pre-Hyper-Text-Post-Processor programming code.
 
 ===Programming Code Documentation and Searchability===
 All of the programming code is extremely documented and manageable with approximately 7,000 panels of programming code documentation. The documentation panels within the source code explain in detail what every line of programming code in the system does. All of the programming code documentation features searchable programming code keys such as:
@@ -825,7 +825,7 @@ CerberusCMS automatically detects the connection speed of the connection and opt
 Custom Application Modules can be written to control IoT Devices connected to the system such as Smart House Electricity Usage Monitoring, Smart House Lightning Systems to turn lights on and off, programmable logic controllers, SCADA and more. All of these things can be controlled from an Application Module with buttons and more.
 
 ==Programming Code Architecture==
-CerberusCMS - Version Number: 4, Build Number: 0.8, Edit Number: 4,325, Manual Edit Number: 340 - Final is written in a Linux Operating System Architectural Style where everything is completely modular with HASH checksums on
+CerberusCMS - Version Number: 4, Build Number: 0.8, Edit Number: 4,325, Manual Edit Number: 240 - Final is written in a Linux Operating System Architectural Style where everything is completely modular with HASH checksums on
 each file for integrity comparison. The Kernel file can be continually added to by using the consistent Programming Code Framework that has been written by the author.
 
 ===Programming Code Consistency and Uniqueness===
@@ -907,6 +907,6 @@ Video Games
 Each software project combined totals around ~450,000 lines of original programming code across several different programming languages and scripting languages.
 
 ==Project Copyrights==
-Every line of programming code in CerberusCMS up to CerberusCMS, Version Number: 4, Build Number: 0.8, Edit Number: 4,325, Manual Edit Number: 340 is 100% original from and was written by the computer programmer Gary Christopher Johnson of SouthGate, California, West Los Angeles, California and Oildale, California.
+Every line of programming code in CerberusCMS up to CerberusCMS, Version Number: 4, Build Number: 0.8, Edit Number: 4,325, Manual Edit Number: 240 - Final is 100% original from and was written by the computer programmer Gary Christopher Johnson of SouthGate, California, West Los Angeles, California and Oildale, California.
 
 This web application was developed and written in Southern California. This project was started in around the year ~2001 when I was about 14 or maybe 15 years old... My girlfriend at the time... a nice laptop was given to me. I started learning computer programming back then. The updates for this specific project is slow because I don't have the time to work on it every day.
