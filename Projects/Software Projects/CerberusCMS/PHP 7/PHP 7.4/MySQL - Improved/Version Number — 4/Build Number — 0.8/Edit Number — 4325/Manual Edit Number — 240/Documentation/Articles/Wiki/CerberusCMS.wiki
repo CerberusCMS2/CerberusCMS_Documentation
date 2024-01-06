@@ -362,8 +362,7 @@ The Application Module teaches fundamentally how to Mentally Calculate all Mathe
 
 * '''Disk Operating System'''
 
-* CerberusCMS comes with Android and Disk Operating System Emulator Application Modules that successfully emulate Android Applications and Disk Operating System Application Images Directly From
-the web browser itself.
+* CerberusCMS comes with Android and Disk Operating System Emulator Application Modules that successfully emulate Android Applications and Disk Operating System Application Images directly from the web browser itself.
 
 * CerberusCMS additionally comes with a Digital Store Front named Market where Administrators can list and sell physical and digital items within item categories and entries. The additional Application Module is capable of securely handling personal credit card, debit card, coupon card and CryptoCurrency transactions. The Store Front Application Module stores encrypted personal information for shipping and receiving items. It also provides and stores printable invoices with tracking numbers, bar codes and QR codes.
 
