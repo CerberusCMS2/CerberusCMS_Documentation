@@ -779,7 +779,7 @@ End-Users with limited programming knowledge can create their own Application Mo
 
 * 1. By writing the custom Application Module in the style of the Programming Code Framework.
 * 2. By adding the output message variables to the language file.
-* 3. By adding the POST and GET variables to the Master Sanitization security module.
+* 3. By adding the REQUEST, POST and GET variables to the Master Sanitization security module.
 
 Application Modules can be written to do just about any computing task that P.H.P. is capable of from the web browser.
 
