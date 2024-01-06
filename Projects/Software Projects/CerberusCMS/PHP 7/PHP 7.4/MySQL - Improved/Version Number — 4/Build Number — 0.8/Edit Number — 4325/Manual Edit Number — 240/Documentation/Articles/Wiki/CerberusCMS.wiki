@@ -751,12 +751,12 @@ All of the programming code is extremely documented and manageable with approxim
 * [ ^ ], meaning header
 * [ @ ], meaning beginning of logical programming code statement with explanation of programming code functionality.
 * [ + ], meaning ending of logical programming code statement with explanation of programming code functionality.
-and more.
+* and more...
 
 * Example:
 
  /*
- * [ @ ] IF: 1 IS Greater Than 2, Add 1 To 2
+ * [ @ ] IF: 1 IS Greater Than 2, Add 1 With 2
  */
 
  $A = 1;
@@ -768,7 +768,7 @@ and more.
 
  	echo ($C); OR print_r($C); OR print($C);
 
- } // [ + ] IF: 1 IS Greater Than 2, Add 1 To 2
+ } // [ + ] IF: 1 IS Greater Than 2, Add 1 With 2
 
 Adding features to this web application as a novice programmer is very simple and straightforward.
 
