@@ -756,7 +756,7 @@ All of the programming code is extremely documented and manageable with approxim
 * Example:
 
  /*
- * [ @ ] IF: 1 IS Greater Than 2, Add 1 With 2
+ * [ @ ] IF: 1 IS Greater Than: 2, Add 1 With 2
  */
 
  $A = 1;
@@ -768,7 +768,7 @@ All of the programming code is extremely documented and manageable with approxim
 
  	echo ($C); OR print_r($C); OR print($C);
 
- } // [ + ] IF: 1 IS Greater Than 2, Add 1 With 2
+ } // [ + ] IF: 1 IS Greater Than: 2, Add 1 With 2
 
 Adding features to this web application as a novice programmer is very simple and straightforward.
 
