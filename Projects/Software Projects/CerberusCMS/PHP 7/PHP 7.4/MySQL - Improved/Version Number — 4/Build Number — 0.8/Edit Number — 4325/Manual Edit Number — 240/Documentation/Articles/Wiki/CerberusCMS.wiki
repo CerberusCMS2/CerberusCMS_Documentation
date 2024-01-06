@@ -373,7 +373,7 @@ The Application Module teaches fundamentally how to Mentally Calculate all Mathe
 ====Plug-In Application Modules====
 * '''Camera'''
 This Plug-In Application Module automatically handles and processes the video feed from the device cameras by using Hyper-Text-Markup-Language Version Number: 5's Built-In Media Stream Functions without any JavaScript Programming Code.
-Read: https://www.w3.org/TR/mediastream-recording
+* Read: https://www.w3.org/TR/mediastream-recording
 
 * '''Image'''
 This Plug-In Application Module automatically handles and processes every image file across the system including uploaded image files.
