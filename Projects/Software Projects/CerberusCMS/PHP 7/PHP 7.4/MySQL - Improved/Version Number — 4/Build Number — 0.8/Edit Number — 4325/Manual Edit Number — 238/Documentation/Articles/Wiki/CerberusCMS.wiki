@@ -31,10 +31,13 @@ CerberusCMS comes with several additional applications:
 * Asclepius, which is named after the Goddess of healing. This is a Pre-Hyper-Text-Post-Processor Web Application that performs extensive diagnostics on the installation of CerberusCMS and offers to reinstall any files with permission from the automated Services Root-Administration Account.
 
 ===Project Origins===
-CerberusCMS was the author's first software project started when the author was 14 years old. This Web Application was originally written and then used as a long distance communications platform through text messaging from the Internet by small groups from ~2000 to 2006. The project was later expanded upon to cater to a small V-TM:R and V-TM:B Personal Computer video game community to host expansion packs and video game mods on a web server for download to that community. This game was mostly played with friends in Oildale, California.
+CerberusCMS was the author's first software project started when the author was 13 and 14 years old. This Web Application was originally written and then used as a long distance communications platform through text messaging from the Internet by small groups from ~2000 to 2006. The project was later expanded upon to cater to a small V-TM:R and V-TM:B Personal Computer video game community to host expansion packs and video game mods on a web server for download to that community. This game was mostly played with friends in Oildale, California.
 
-===Use In The Orignal Id Software Quake 3 - Arena Community===
+===Use In The Orignal Id Software Quake 3 - Arena P.C. Video Game Community===
 From the years of ~2000 and 2002 this project was used in the Original Quake 3 - Arena Internet Community to host video game modification pack files as well as to facilitate video game clan wars. Quake 3 - Arena allowed for some Internet Network loops where SEGA Dreamcast owners could also play this video game with those playing this video game on a Personal-Computer through the Id Software Quake 3 - Arena Internet servers.
+
+===Use In The Orignal Vampire The Masquerade - Redemption P.C. Video Game Community===
+The project was used in the original Vampire The Masquerade - Redemption Video Game Community to host video game modification files and video game expansion pack files for video game communities.
 
 ===Use In The Orignal Microsoft XBOX Media Center Community===
 Later on from the years of ~2007 - 2009 this project was used in the Original Microsoft XBOX Media Center [[XBMC]] community before the XBMC project was forked to what is now community maintained [[Kodi Media Center]] International and community maintained [[XMBC4XBOX]] United Kingdom. Customized Application Modules were written for this project to give control of the XBMC install and thus the XBOX itself from any web browser remotely, including from the original smart phone lines that were available from the years of ~2006 - 2009 as well as to remotely launch video games, movies and music on the video game console from any web browser in the world including from the original smart phone lines that were available from the years of ~2006 - 2009 such as the Motorola Razr Dual Screen released in 2007, Motorola Droid AOSP 2009, Motorola Razr Smart Phone 2010, Motorola XPRT AOSP 2010, BlackBerry 8890, BlackBerry 9910, BlackBerry 9930 and more. This would
@@ -46,8 +49,7 @@ The super organized directory structure with all of the additional applications,
 The XBMC Dashboard and custom Linux Operating System available for the Orignal Microsoft XBOX from 2008 to 2016 was comparable to some of the highest end commercial media software that is even available today. Custom Application Modules for CerberusCMS were made so that it could remotely control the entire Original Microsoft XBOX so when an owner left the house or the location of the Original Microsoft XBOX they could then login to an instance of CerberusCMS and remotely control the Original Microsoft XBOX itself that is connected to the local network.
 
 From the years of 2006 - 2016 one could buy an original Microsoft XBOX and then upgrade each of the internal components within it such as the CPU to a 1.4 GHz by reball, RAM to 128 MB to 256 MB and sometimes 512MB by reball, Hard Disk Drive to a 750 GB to 1 TB or greater capacity, Ribbon Cables to SATA1 or Ribbon Cables to ~300MHz, Power Supply Unit to regulated OverVoltage and then flash the
-firmware on the Original Microsoft XBOX Motherboard / Mainboard to then install a custom Dashboard Media Center called XBMC. XBMC was under constant development by the community. After one installed XBMC from the years of 2006 - 2016 one could then purchase a 40" or greater High End flat screen computer monitor capable of 1080p/i or higher video resolution output and then use a converter box with the 24Karat Gold Plated Component Cables to get 1080p/i video resolution output with high definition optical audio output from the Original Microsoft XBOX. If one had a high quality wired or wireless surround sound system with 5 - 7 speakers and a subwoofer or more than one subwoofer one could also get high defintion audio as well as high definition 3D surround sound audio from the Original Microsoft XBOX. All of the movies, video games and music
-could be launched to use the high defintion surround sound audio and high definition 3D surround sound audio.
+firmware on the Original Microsoft XBOX Motherboard / Mainboard to then install a custom Dashboard Media Center called XBMC. XBMC was under constant development by the community. After one installed XBMC from the years of 2006 - 2016 one could then purchase a 40" or greater High End flat screen computer monitor capable of 1080p/i or higher video resolution output and then use a converter box with the 24Karat Gold Plated Component Cables to get 1080p/i video resolution output with high definition optical audio output from the Original Microsoft XBOX. If one had a high quality wired or wireless surround sound system with 5 - 7 speakers and a subwoofer or more than one subwoofer one could also get high defintion audio as well as high definition 3D surround sound audio from the Original Microsoft XBOX. All of the movies, video games and music could be launched to use the high defintion surround sound audio and high definition 3D surround sound audio.
 
 From ~2006 to 2012 one could then download and watch every film ever made directly from the Orignal Microsoft XBOX itself and sometimes films and television shows came out to different communities in 720p and higher video resolution several months before the films made it into the public cinemas. This setup was better than what some of the highest end electronics were available to the public from the years of ~2006 to 2012.
 
@@ -58,6 +60,9 @@ CerberusCMS with custom Application Modules was used in the Microsoft XBOX 360 M
 
 ===Use In The CyanogenMod Community===
 CerberusCMS with custom Application Modules was used in the CyanogenMod Community from ~2010 until it became LineageOS.
+
+===Use In The Original and Current Internet of Things Community===
+CerberusCMS was used in the original Internet of Things Community in ~2009 where custom application modules were made to control the lights, power, air conditioning and other things inside of a house from a web server connected to a smart board. All of the things inside of the house could be controlled from a mobile cell phone and in addition to this live security video feeds from security cameras attached to the house could be watched and recorded from the mobile cell phone.
 
 ===Loss of Development Progress===
 Around 2 years of development progress was lost before 2013. Several fake versions of this project were put on display so as to distract certain groups.
@@ -73,10 +78,9 @@ All official builds are generated from a C++ application named Charon alternatel
 Once an official build number reaches the number: 0100, where the official version has progressed to an acceptable level of development and features an entirely new version of the project is announced and released into public circulation.
 
 Official Software Project Package Releases follow:
-CerberusCMS - Version Number: **Number**, Build Number: **Number**, Edit Number: **Number** and Manual Edit: **Number**
+CerberusCMS - Version Number: **Number**, Build Number: **Number**, Edit Number: **Number** and Manual Edit Number: **Number**
 
-Each official release in different packaged forms are accompanied with a Portable-Document-File
-documentation file format and a SHA-512 HASH file size for comparison against the official package released.
+Each official release in different packaged forms are accompanied with a Portable-Document-File documentation file format and a SHA-512 HASH file size for comparison against the official package released.
 
 ====Application Module Versioning System====
 Each Application Module has a version number where newer and improved Application Modules ascend in number.
@@ -300,17 +304,59 @@ Activity Logging
 ====Panel Application Modules====
 * '''Administration.panel'''
 * '''Applications_Panel.panel'''
-* '''Banned_Networks.panel'''
+* '''Clock.panel'''
 * '''Language.panel'''
 * '''Latest_Articles.panel'''
 * '''Latest_Files.panel'''
 * '''Latest_Members.panel'''
 * '''Latest_Shouts.panel'''
+* '''Location.panel'''
+* '''Live_Video.panel'''
 * '''Member_Panel.panel'''
+* '''Networking.panel'''
 * '''Project_Badges.panel'''
 * '''RSS_Panel.panel'''
 
-11 Application Panels
+* '''Administration Panel'''
+Application Panel With Options For Managing Administration Options.
+
+* '''Clock'''
+Application Panel That Displays Time Data In Different Formats.
+
+* '''Applications Panel'''
+Application Panel That Lists All Available Links To Applications.
+
+* '''Language'''
+Application Panel With Options For Managing Languages.
+
+* '''Latest Articles'''
+Application Panel That Displays The Latest Article Entries.
+
+* '''Latest Files'''
+Application Panel That Displays The Latest File Category File Entries.
+
+* '''Latest Shouts'''
+Application Panel With Options For Text, Voice and Video Shout Messages.
+
+* '''Live Video'''
+Application Panel With Options For Recording Live Video To Be Saved To The Registered Member Account Live Video Directory.
+
+* '''Location'''
+Application Panel That Displays The Devices Current Location In Global-Positioning-System Coordinates With Altitude Above or Below Sea Level.
+
+* '''Member Panel'''
+Application Panel With Options For Managing Registered Member Account Options.
+
+* '''Networking'''
+Application Panel With Options For Managing Networking Options such as Network Internet Protocol Address Range or Specific / Domain Name Server Range or Specific Blocking or Whitelisting.
+
+* '''Project Badges'''
+Application Panel That Displays This Software Project Badges With Links
+
+* '''RSS Panel'''
+Application Panel That Displays The Latest Real-Simple-Syndication Feeds From The Cerberus Installation.
+
+12 Application Panels
 
 ====Open :: Public Application Modules====
 * '''Engine_Validation'''
@@ -810,7 +856,7 @@ CerberusCMS automatically detects the connection speed of the connection and opt
 Custom Application Modules can be written to control IoT Devices connected to the system such as Smart House Electricity Usage Monitoring, Smart House Lightning Systems to turn lights on and off, programmable logic controllers, SCADA and more. All of these things can be controlled from an Application Module with buttons and more.
 
 ==Programming Code Architecture==
-CerberusCMS - Version Number: 4, Build Number: 0.8, Edit Number: 4,325, Manual Edit Number: Final is written in a Linux Operating System Architectural Style where everything is completely modular with HASH checksums on
+CerberusCMS - Version Number: 4, Build Number: 0.8, Edit Number: 4,325, Manual Edit Number: 238 - Final is written in a Linux Operating System Architectural Style where everything is completely modular with HASH checksums on
 each file for integrity comparison. The Kernel file can be continually added to by using the consistent Programming Code Framework that has been written by the author.
 
 ===Programming Code Consistency and Uniqueness===
@@ -839,14 +885,42 @@ The Pre-Hyper-Text-Post-Processor Build In Function: echo(); instead of print();
 ===Programming Code Documentation===
 * ~7,000 Panels of Expert In-Line Programming Code Documentation. Every section of Programming Code in this Software Project is throughly documented and all ending statements are documented with searchable characters. By opening and using the 'Find Keyword' and 'Find Character' functions within the Programming Code editor software one can easily find the beginning and ending of each Programming Code statement by searching for the character combinations of: [ ^ ], [ @ ], [ + ] as well as other character combinations.
 
-===Other Features===
+==Programming Code Statistics==
+
+===Number of Lines of Programming Code===
+* Total Number of Lines of High Quality and Completely Functional and Commented Pre-Hyper-Text-Post-Processor Programming Code Within This Official Release Number ( Bare-Bone Programming Code): ~96,630 Lines of Programming Code - ~100,000 Lines of Programming Code.
+* Total Number of Lines of High Quality and Completely Functional and Commented Pre-Hyper-Text-Post-Processor Programming Code Within This Official Release Number ( With Index File Programming Code): ~119,973 Lines of Programming Code
+* Total Number of Lines of High Quality and Completely Functional and Non-Commented Pre-Hyper-Text-Post-Processor Programming Code Within This Official Release Number ( Bare-Bone Programming Code): ~75,000 Lines of Programming Code
+* Total Number of Lines of High Quality and Completely Functional and Commented Pre-Hyper-Text-Post-Processor Programming Code Within This Official Release Number: ~153,209 to ~175,000 Lines of Programming Code
+* Number of Pre-Hyper-Text-Post-Processor Index Files: 251 * 93 Lines of Pre-Hyper-Text-Post-Processor Programming Code Per Index File: 23,343 Lines of Programming Code
+
+* Average Number of Lines of Premium, High Quality and 100% Functional Programming Code Per Day: 100
+* Average Number of Lines of Premium, High Quality and 100% Functional Programming Code Per Year: 10,000
+
+===Programming Code Time===
+* 1 Person @ Approximately 4 hours per day from: ~January 1st of 2000 - ~January 1st of 2002: 1,460 Hours.
+* 1 Person @ Approximately 3 hours per day every 3 days of 1 week from: ~January 1st of 2004 - ~January 1st of 2006: 363 Hours.
+* 1 Person @ Approximately 4 hours per day every 3 days of 1 week from: ~January 1st of 2007 - ~January 1st of 2009: 484 Hours.
+* 1 Person @ Approximately 2 hours per day every 3 days of 1 week from: ~January 1st of 2013 - ~January 1st of 2014: 363 Hours.
+* 1 Person @ Approximately 6 hours per day from: ~January 1st of 2021 - ~February 29th of 2024, 6,570 Hours.
+* Approximate Total: 7,780 Hours.
+Note: This section needs to be updated and figured out. It probably took me a lot longer than this because it's true that only 10,000 lines of high quality, premium and 100% functional programming code can be put out by an expert programmer per year. 80,000 Lines of Programming Code would indicate 8 years, but this is probably not the case.
+
+==Other Features==
 CerberusCMS comes with a feature where each Registered Member Account is allotted an amount of storage data space specified by the Administration. It also has a Messenger
 written in Pure Pre-Hyper-Text-Post-Processor programming code that allows for custom encryption, Pretty-Good-Privacy, Advanced Encryption Standard - 512 encrypted and signed messaging as well as sending and receiving cell phone text messages world-wide.
 
-===Software Licensing===
+==Software Licensing==
 CerberusCMS free and open source edition comes with a custom FOSS license.
 
 ==Project Development Team==
+
+===Project Leadership===
+G.C. Johnson
+* Architect
+* Graphics Designer
+* Programmer
+* Everything Else
 
 ===Company Projects===
 Tinke Software was renamed from Rune Software and Rune Software, Inc. which was registered in 2001 through ICANN as RuneSoftware.org after an agreement was made over the name with Rune Software, GMBH in Germany. Tinke Software now maintains and periodically develops 23 unique and different software projects that use just about
